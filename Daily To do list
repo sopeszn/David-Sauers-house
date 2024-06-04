@@ -4,14 +4,14 @@
    <h1>To do list</hi>
    <h2>Morning</h2>
    <p>Make Breakfast
-      Study
-      House hold Chores </p>
+      <br>Study
+     <br> House hold Chores </p>
    <h2>Afternoon</h2>
    <p>Go to the gym
-      Cook food
-      Get Ready for work</p>
+      <br>Cook food
+      <br>Get Ready for work</p>
    <h2>At Night</h2>
    <p> Eat
-       Read a book
-       Sleep before 12AM</p>
+       <br>Read a book
+       <br>Sleep before 12AM</p>
   </main>
