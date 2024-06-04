@@ -3,15 +3,10 @@
   <main>
    <h1>To do list</hi>
    <h2>Morning</h2>
-   <p>Make Breakfast
-      <br>Study
-     <br> House hold Chores </p>
+   <p>Make Breakfast<br>Study <br> House hold Chores </p>
    <h2>Afternoon</h2>
-   <p>Go to the gym
-      <br>Cook food
-      <br>Get Ready for work</p>
+   <p>Go to the gym <br>Cook food <br>Get Ready for work</p>
    <h2>At Night</h2>
    <p> Eat
-       <br>Read a book
-       <br>Sleep before 12AM</p>
+       <br>Read a book<br>Sleep before 12AM</p>
   </main>
